@@ -192,7 +192,7 @@ dataf=pd.DataFrame(Pred ,index=Imatest,columns=labely)
 dataf
 
 
-# In[ ]:
+# In[86]:
 
 dataf.to_csv(r'C:\Users\kewal\Desktop\kaggle\dog classification\test\prediction.csv')
 
